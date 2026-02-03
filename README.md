@@ -1,4 +1,3 @@
-## 🛒 Produk Premium
-<img src="https://cdn.simpleicons.org/netflix" width="40"/>
-<img src="https://cdn.simpleicons.org/canva" width="40"/>
-<img src="https://cdn.simpleicons.org/capcut"/>
+# 💻 Website Bisnis Digital
+
+Website bisnis digital untuk penjualan akun premium seperti 🎬 Netflix, 🎨 Canva Pro, dan ✂️ CapCut Pro dengan harga terjangkau dan proses berlangganan yang mudah.
